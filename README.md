@@ -1,12 +1,23 @@
-# 🧠 Nova Voice Assistant
+🤖 Nova – Personalized Desktop AI Assistant
 
-Nova is a simple voice assistant built with Python.  
-It can take **voice or typed commands** and open popular websites like **YouTube, Google, and Wikipedia** using your default browser.
+Nova is a personalized desktop AI assistant built with Python that supports voice and text interaction. It combines conversational AI with real-world desktop automation, allowing users to open applications, browse websites, play music, check the time, and get real-time weather updates — all through natural commands.
 
----
+🚀 Key Features
 
-## ⚙️ Features
-- 🎙️ Voice recognition using `speech_recognition`
-- 🗣️ Text-to-speech responses using `pyttsx3`
-- 🌐 Opens sites like YouTube, Google, and Wikipedia
-- ⌨️ Supports both typed and spoken commands
+🎙 Voice & text command support
+
+🤖 AI-powered conversational chat (Groq – LLaMA 3.1)
+
+💻 Desktop application launcher
+
+🌐 Website automation
+
+🎵 Music search & playback
+
+🌦 Real-time weather integration
+
+🕒 Time reporting
+
+🔁 Continuous chat mode
+
+Nova demonstrates AI integration, speech recognition, text-to-speech, and API usage in a fully functional desktop assistant.
